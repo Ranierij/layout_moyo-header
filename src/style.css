@@ -1,5 +1,5 @@
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   --link-main-color: #000;
   --link-active-color: #00acdc;
 }
@@ -58,7 +58,7 @@ body {
 }
 
 .is-active::after {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   right: 0;
