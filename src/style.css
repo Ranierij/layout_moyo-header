@@ -1,7 +1,13 @@
 html {
   font-family: Roboto, sans-serif;
-  --link-main-color: #000;
+
   --link-active-color: #00acdc;
+}
+
+.selector {
+  color: black;
+
+  --main-color: blue;
 }
 
 body {
