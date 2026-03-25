@@ -1,13 +1,12 @@
+:root {
+  --link-main-color: #000;
+  --link-active-color: #00acdc;
+}
+
 html {
   font-family: Roboto, sans-serif;
 
   --link-active-color: #00acdc;
-}
-
-.selector {
-  color: black;
-
-  --main-color: blue;
 }
 
 body {
@@ -15,7 +14,7 @@ body {
 }
 
 .header {
-  padding: 0 auto;
+  padding: 8 16;
   display: flex;
   justify-content: space-between;
   align-items: center;
