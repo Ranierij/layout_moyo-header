@@ -43,7 +43,7 @@ html {
 .nav__link {
   display: flex;
   align-items: center;
-  height: 60px;
+  height: 56px; /* 🔥 CORRIGIDO */
 
   text-decoration: none;
   text-transform: uppercase;
@@ -67,5 +67,4 @@ html {
   height: 4px;
   width: 100%;
   background: var(--blue);
-  border-radius: 2px;
 }
